@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "_id": 1,
+      "title": "Unlocking Android",
+      "pageCount": 416,
+      "publishedDate": {
+        "date": "2009-04-01T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+      "shortDescription": "Unlocking Android: A Developer's Guid ...",
+      "longDescription": "Android is an open source mobile phoneplatform based os... ",
+      "status": "PUBLISH",
+      "authors": [
+        "W. Frank Ableson",
+        "Charlie Collins",
+        "Robi Sen"
+      ]
+    }
+  ]
+}
